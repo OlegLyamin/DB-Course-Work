@@ -28,7 +28,7 @@
 [Таблица ROOM](https://github.com/OlegLyamin/DB-Course-Work/blob/master/ROOM_DATA_TABLE.xlsx)
 
 [Таблица REGISTRATION](https://github.com/OlegLyamin/DB-Course-Work/blob/master/REGISTRATION_DATA_TABLE.xlsx)
-## 3 Примеры выполнения запросов.
+## 3 Примеры выполнения запросов для таблицы PERSON.
     Пример ROLLUP по 1 атрибуту:
  ![Alt Image 6](https://github.com/OlegLyamin/DB-Course-Work/blob/master/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D1%8B%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/1%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81.png)
 ![Alt Image 7](https://github.com/OlegLyamin/DB-Course-Work/blob/master/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D1%8B%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%201%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%B0.png)
