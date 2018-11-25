@@ -3,8 +3,8 @@
 
 ## 1 Описание таблиц.
 
-![Image alt](https://github.com/OlegLyamin/DB-Course-Work/raw/master/DB-Course-Work/Экраны выполненной работы/person.png
-)
+![Alt Image 6](httpsgithub.comLyaminOlegDB-Course-Workrawmastermediaperson.png)
+
 
 ## 2 Генерация данных в таблицы.
 
