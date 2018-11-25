@@ -4,9 +4,13 @@
 ## 1 Описание таблиц.
 
 ![Alt Image 1](https://github.com/OlegLyamin/DB-Course-Work/blob/master/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D1%8B%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/person.png)
+
 ![Alt Image 2](https://github.com/OlegLyamin/DB-Course-Work/blob/master/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D1%8B%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/region.png)
+
 ![Alt Image 3](https://github.com/OlegLyamin/DB-Course-Work/blob/master/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D1%8B%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/room.png)
+
 ![Alt Image 4](https://github.com/OlegLyamin/DB-Course-Work/blob/master/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D1%8B%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/street.png)
+
 ![Alt Image 5](https://github.com/OlegLyamin/DB-Course-Work/blob/master/%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D1%8B%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/registration.png)
 
 
@@ -15,9 +19,13 @@
 Для генерации данных использовался онлайн ресурс www.mockaroo.com.
   - Заполненные таблицы:
 [Таблица PERSON](https://github.com/OlegLyamin/DB-Course-Work/blob/master/PERSON_DATA_TABLE.xlsx)
+
 [Таблица REGION](https://github.com/OlegLyamin/DB-Course-Work/blob/master/REGION_DATA_TABLE.xlsx)
+
 [Таблица STREET](https://github.com/OlegLyamin/DB-Course-Work/blob/master/STREET_DATA_TABLE.xlsx)
+
 [Таблица ROOM](https://github.com/OlegLyamin/DB-Course-Work/blob/master/ROOM_DATA_TABLE.xlsx)
+
 [Таблица REGISTRATION](https://github.com/OlegLyamin/DB-Course-Work/blob/master/REGISTRATION_DATA_TABLE.xlsx)
 ## 3 Примеры выполнения запросов.
     Пример ROLLUP по 1 атрибуту:
